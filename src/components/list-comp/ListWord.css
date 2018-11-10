@@ -1,0 +1,17 @@
+.t-col{
+    padding: 0 10px;
+    font-size: 15px;
+    font-weight: 300;
+}
+.t {
+    min-width: 200px;
+    margin: 5px auto;
+    border-color: rgba(19, 18, 18, 0.1);
+}
+.t-row:hover {
+    background: rgba(19, 18, 18, 0.1);
+}
+.t-head {
+    font-size: 16px;
+    font-weight: 500;
+}
